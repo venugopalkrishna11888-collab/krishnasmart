@@ -1,0 +1,19 @@
+<html><head><title>KrishnaSmart Graph</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body style="font-family:Arial;background:#111;color:white;text-align:center;padding:20px">
+<h1>🛒 KrishnaSmart Dashboard</h1>
+<h2>Total Revenue: Rs 7,57,980 | Orders: 20</h2>
+<div style="width:600px;max-width:95%;margin:auto;background:white;padding:20px;border-radius:15px">
+<canvas id="myChart"></canvas>
+</div>
+<script>
+new Chart(document.getElementById('myChart'),{
+type:'bar',
+data:{labels:['Sony Headphones','Dell Laptop','Nike Shoes','iPhone 15'],
+datasets:[{label:'Orders',data:[6,6,4,4],backgroundColor:['#FF6384','#36A2EB','#FFCE56','#4BC0C0']}]},
+options:{scales:{y:{beginAtZero:true}}}}
+);
+</script>
+<p style="color:lime">Status: Business Running Successfully!</p>
+</body></html>

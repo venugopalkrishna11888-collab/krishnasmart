@@ -1,0 +1,21 @@
+order_id,customer,product,price,date
+ORD1,Customer1,Sony Headphones,4999,2026-11-23
+ORD2,Customer2,Sony Headphones,4999,2026-11-23
+ORD3,Customer3,Nike Shoes,2999,2026-11-23
+ORD4,Customer4,Dell Laptop,65999,2026-11-23
+ORD5,Customer5,Sony Headphones,4999,2026-11-23
+ORD6,Customer6,Dell Laptop,65999,2026-11-23
+ORD7,Customer7,iPhone 15,79999,2026-11-23
+ORD8,Customer8,Nike Shoes,2999,2026-11-23
+ORD9,Customer9,Dell Laptop,65999,2026-11-23
+ORD10,Customer10,Nike Shoes,2999,2026-11-23
+ORD11,Customer11,Sony Headphones,4999,2026-11-23
+ORD12,Customer12,Sony Headphones,4999,2026-11-23
+ORD13,Customer13,Dell Laptop,65999,2026-11-23
+ORD14,Customer14,Dell Laptop,65999,2026-11-23
+ORD15,Customer15,Sony Headphones,4999,2026-11-23
+ORD16,Customer16,iPhone 15,79999,2026-11-23
+ORD17,Customer17,iPhone 15,79999,2026-11-23
+ORD18,Customer18,Nike Shoes,2999,2026-11-23
+ORD19,Customer19,Dell Laptop,65999,2026-11-23
+ORD20,Customer20,iPhone 15,79999,2026-11-23
